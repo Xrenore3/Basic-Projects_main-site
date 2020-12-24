@@ -19,6 +19,11 @@ const projects = [
     title: "navbar",
     url: "https://xrenore3.github.io/Basic-project_navbar/",
   },
+  {
+    id: 5,
+    title: "cart",
+    url: "https://xrenore3.github.io/Basic-projects_cart/",
+  }
 ];
 
 export default projects

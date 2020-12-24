@@ -2,11 +2,11 @@ import React, { useState } from "react";
 import ProjectCard from "./ProjectCard";
 import data from "../data.js";
 
-const ProjectCardContainer = ({}) => {
+const ProjectCardContainer = () => {
   const [projectList] = useState(data);
   const projectCards = projectList.map((project) => {
     const { id, title, url } = project;
-    return <ProjectCard keys={id} title={title} url={url} />;
+    return <ProjectCard key={id} title={title} url={url} />;
   });
 
   return (
