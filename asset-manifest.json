@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Basic-Projects_main-site/static/css/main.fcd240fd.chunk.css",
-    "main.js": "/Basic-Projects_main-site/static/js/main.57750a43.chunk.js",
-    "main.js.map": "/Basic-Projects_main-site/static/js/main.57750a43.chunk.js.map",
-    "runtime-main.js": "/Basic-Projects_main-site/static/js/runtime-main.32bf518d.js",
-    "runtime-main.js.map": "/Basic-Projects_main-site/static/js/runtime-main.32bf518d.js.map",
-    "static/js/2.2f2e6595.chunk.js": "/Basic-Projects_main-site/static/js/2.2f2e6595.chunk.js",
-    "static/js/2.2f2e6595.chunk.js.map": "/Basic-Projects_main-site/static/js/2.2f2e6595.chunk.js.map",
-    "static/js/3.e623ad6f.chunk.js": "/Basic-Projects_main-site/static/js/3.e623ad6f.chunk.js",
-    "static/js/3.e623ad6f.chunk.js.map": "/Basic-Projects_main-site/static/js/3.e623ad6f.chunk.js.map",
+    "main.css": "/Basic-Projects_main-site/static/css/main.9af8c584.chunk.css",
+    "main.js": "/Basic-Projects_main-site/static/js/main.9851e65d.chunk.js",
+    "main.js.map": "/Basic-Projects_main-site/static/js/main.9851e65d.chunk.js.map",
+    "runtime-main.js": "/Basic-Projects_main-site/static/js/runtime-main.4e7646ce.js",
+    "runtime-main.js.map": "/Basic-Projects_main-site/static/js/runtime-main.4e7646ce.js.map",
+    "static/js/2.b45dd234.chunk.js": "/Basic-Projects_main-site/static/js/2.b45dd234.chunk.js",
+    "static/js/2.b45dd234.chunk.js.map": "/Basic-Projects_main-site/static/js/2.b45dd234.chunk.js.map",
+    "static/js/3.3b46c088.chunk.js": "/Basic-Projects_main-site/static/js/3.3b46c088.chunk.js",
+    "static/js/3.3b46c088.chunk.js.map": "/Basic-Projects_main-site/static/js/3.3b46c088.chunk.js.map",
     "index.html": "/Basic-Projects_main-site/index.html",
-    "static/css/main.fcd240fd.chunk.css.map": "/Basic-Projects_main-site/static/css/main.fcd240fd.chunk.css.map",
-    "static/js/2.2f2e6595.chunk.js.LICENSE.txt": "/Basic-Projects_main-site/static/js/2.2f2e6595.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/Basic-Projects_main-site/static/media/logo.103b5fa1.svg"
+    "static/css/main.9af8c584.chunk.css.map": "/Basic-Projects_main-site/static/css/main.9af8c584.chunk.css.map",
+    "static/js/2.b45dd234.chunk.js.LICENSE.txt": "/Basic-Projects_main-site/static/js/2.b45dd234.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32bf518d.js",
-    "static/js/2.2f2e6595.chunk.js",
-    "static/css/main.fcd240fd.chunk.css",
-    "static/js/main.57750a43.chunk.js"
+    "static/js/runtime-main.4e7646ce.js",
+    "static/js/2.b45dd234.chunk.js",
+    "static/css/main.9af8c584.chunk.css",
+    "static/js/main.9851e65d.chunk.js"
   ]
 }
